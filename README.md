@@ -6,7 +6,7 @@ https://github.com/meliketoy/wide-resnet.pytorch
 
 ResNet:
 
-python main.py --lr 0.025 --net_type resnet --depth 50 --widen_factor 10 --dropout 0.3 --dataset cifar10
+python main.py --lr 0.025 --net_type resnet --depth 50 --dropout 0.3 --dataset cifar10
 
 Wide-ResNet:
 
@@ -22,9 +22,9 @@ Deep Expander Networks:
 
 https://github.com/drimpossible/Deep-Expander-Networks
 
-python main.py --lr 0.025 --net_type resnet-deep-expand --depth 50 --widen_factor 10 --dropout 0.3 --dataset cifar10
+python main.py --lr 0.025 --net_type resnet-deep-expand --depth 50 --dropout 0.3 --dataset cifar10
 
-python main.py --lr 0.025 --net_type wide-resnet-deep-expander --depth 28 --widen_factor 10 --dropout 0.3 --dataset cifar10 
+python main.py --lr 0.025 --net_type wide-resnet-deep-expander --depth 16 --widen_factor 10 --dropout 0.3 --dataset cifar10 
 
 python main.py --lr 0.025 --net_type pyramid-deep-expand --depth 38 --dropout 0.3 --dataset cifar10
 
