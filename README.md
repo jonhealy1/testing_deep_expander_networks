@@ -1,5 +1,4 @@
-# resnet-variations
-Testing different versions of resnet for school.
+# testing deep expander networks on ResNet, WideResNet, and PyramidNet (ResNet version)
 
 ResNet/ Wide ResNet and Training Code:
 
