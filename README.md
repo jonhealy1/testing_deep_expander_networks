@@ -6,9 +6,10 @@ over to new training code as I was wanting to train for 5+ hours per model. I co
 figure out what the problem was with the assignment 7 code - it worked fine when I was
 doing assignment 7, so obviously I messed something up somewhere. I thought that if I tested
 all of these things I could gain some insight and develop my own model. I did not 
-develop my own code from scratch for deep expander networks. I had worked with the 
-code previously and I felt that writing my own version was going to just be
-basically copying. I thought that I could do something more interesting.
+develop my own code from scratch for deep expander networks - I did edit and compress
+some of the code. I had worked with the code previously and I felt that writing my 
+own version was going to just be basically copying. I thought that I could do 
+something more interesting.
 I thought that the results from their paper were interesting and I was wondering why
 their paper wasn't receiving more attention. I would have liked to work more on this
 project. There was a lot of coding that went into this project. Some of the code that I 
