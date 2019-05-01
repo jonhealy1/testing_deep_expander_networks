@@ -69,3 +69,12 @@ requires heavy effort (multiple components and formulations)
 - 70 for implementation runs
 
 
+## Presentation (each item is maximum 5)
+
+Understanding, Presentation, Slides
+
+The second slide is too dense with text which make it hard to
+follow. Preliminary works could’ve been first visualized then
+summarized. Slides can be more visual rather than being text-based
+
+U(4) P(3) S(1)
